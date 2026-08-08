@@ -100,7 +100,7 @@ The dashboard enables users to quickly identify:
 
 ### Executive Overview
 
-![Executive Overview](Executive Overview.png)
+![Executive Overview](Executive-Overview.png)
 
 ### Customer & Product Performance
 
