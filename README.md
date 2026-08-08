@@ -100,15 +100,15 @@ The dashboard enables users to quickly identify:
 
 ### Executive Overview
 
-![Executive Overview](EecutiveOverview.png)
+![Executive Overview](executive-overview.png)
 
 ### Customer & Product Analysis
 
-![Customer & Product Analysis](CustomerProductAnalysis.png)
+![Customer & Product Analysis](customer-product-analysis.png)
 
 ### Sales & Geographic Analysis
 
-![Sales & Geographic Analysis](SalesGeographicAnalysis.png)
+![Sales & Geographic Analysis](sales-geographic-analysis.png)
 
 
 ## 📁 Project Files
