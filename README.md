@@ -104,7 +104,7 @@ The dashboard enables users to quickly identify:
 
 ### Customer & Product Performance
 
-![Customer & Product Performance](dashboard-customer-product.png)
+![Customer & Product Performance](dashboard-Customer-Product-Analysis.png)
 
 ### Geographic & Sales Performance
 
